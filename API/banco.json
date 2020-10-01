@@ -1,0 +1,19 @@
+{
+  "alunos": [
+    {
+      "nome": "LG",
+      "sobrenome": "",
+      "id": 1
+    },
+    {
+      "nome": "Logitech",
+      "sobrenome": "",
+      "id": 2
+    },
+    {
+      "nome": "Acer",
+      "sobrenome": "",
+      "id": 3
+    }
+  ]
+}
